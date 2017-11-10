@@ -1,2 +1,4 @@
 hi this is som file
-this is my 2nd file
+<<<<<<< HEAD
+this is my 3rd file
+>>>>>>> cd8e5a4dd94c493d6583c5c9074bf835a12e9c15
