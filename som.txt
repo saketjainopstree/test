@@ -1,1 +1,2 @@
 hi this is som file
+i want to create a git conflict
